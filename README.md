@@ -1,6 +1,6 @@
 # Introducci-n-Programaci-n
 Este repositorio contiene ejercicios que realicé a lo largo del curso Introducción al Machine Learning desarrollado por el profesor Brian Salamanca 
-Los ejercicios serán desarrollados en RStidio y Python. 
+Los ejercicios serán desarrollados en RStudio y Python. 
 
 ### Matriz triangular
 Una matriz triangular es una matriz cuadrada la cual tiene triángulos de ceros por encima o por debajo de la diagonal principal dependiendo de si es una matriz triangular superior o una matriz triangular inferior. Este tipo de matrices son últiles en análisis numérico para resolver sistemas de ecuaciones lineales, calcular inversas y determinantes de matrices.
@@ -10,7 +10,7 @@ En este código se le pide al usuario ingresar las dimensiones y los valores de 
 En este programa se utilizan dos matrices predeterminadas y se pide calcular la suma, producto vectorial y longitud. 
 
 ### Depuración y organización Bases de Datos 
-Este código utiliza el Directorio Estadístico de Empresas del DANE, del cual se tomaron 266.008 registros, de los cuales se simulan los siguientes campos: }
+Este código utiliza el Directorio Estadístico de Empresas del DANE, del cual se tomaron 266.008 registros, de los cuales se simulan los siguientes campos: 
 1. Utilidad operacional
 2. Año de creación. 
 3. Número de empleados. 
