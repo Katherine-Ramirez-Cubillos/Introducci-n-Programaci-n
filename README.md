@@ -9,7 +9,7 @@ En este código se le pide al usuario ingresar las dimensiones y los valores de 
 ### Operaciones de matirces
 En este programa se utilizan dos matrices predeterminadas y se pide calcular la suma, producto vectorial y longitud. 
 
-### Depuración y organización Bases de Datos 
+### Depuración y organización BD (Bases de datos) 
 Este código utiliza el Directorio Estadístico de Empresas del DANE, del cual se tomaron 266.008 registros, de los cuales se simulan los siguientes campos: 
 1. Utilidad operacional
 2. Año de creación. 
@@ -22,7 +22,7 @@ De acuerdo a esta base de datos se consultan los siguientes datos del departamen
 2. ¿Cuántas personas laboran en el departamento? En promedio: ¿Cuántos?
 3. De acuerdo al decreto 957, asigne los tamaños a cada empresa y diga cuántas empresas son micro, pequeñas, medianas y grandes en el departamento. 
 4. ¿Cuánta utilidad operacional tiene el departamento?
-5. En promedio ¿Cuaántas empresas tienen sitio web?
+5. En promedio ¿Cuántas empresas tienen sitio web?
 6. ¿Cuáles son lso principales CIU por departamento? Si los hay
 
 ### Bases de datos
@@ -31,11 +31,3 @@ De acuerdo a esta base de datos se consultan los siguientes datos del departamen
 #### Económicos.csv: Contiene los valores económicos de cada empresa. 
 
 El código permite tener una sola base, uniendo los nombres del departeamento y los valores económicos con las empresas, utilizando las llaves foráneas "MUNI:ID:DPTO" Y "MUNI_ID_MPIO" y la llave principal "NIT". 
-
-
-
-
-
-
-
-
