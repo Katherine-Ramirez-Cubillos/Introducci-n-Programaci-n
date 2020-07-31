@@ -9,7 +9,7 @@ En este código se le pide al usuario ingresar las dimensiones y los valores de 
 ### Operaciones de matirces
 En este programa se utilizan dos matrices predeterminadas y se pide calcular la suma, producto vectorial y longitud. 
 
-### Base de datos
+### Depuración y organización Bases de Datos 
 Este código utiliza el Directorio Estadístico de Empresas del DANE, del cual se tomaron 266.008 registros, de los cuales se simulan los siguientes campos: }
 1. Utilidad operacional
 2. Año de creación. 
@@ -25,7 +25,7 @@ De acuerdo a esta base de datos se consultan los siguientes datos del departamen
 5. En promedio ¿Cuaántas empresas tienen sitio web?
 6. ¿Cuáles son lso principales CIU por departamento? Si los hay
 
-###Bases de datos
+### Bases de datos
 #### Empresas.csv: Contiene el código del departamento y su nombre. 
 #### Departamentos.csv: Contiene el código del departamento y su nombre.
 #### Económicos.csv: Contiene los valores económicos de cada empresa. 
